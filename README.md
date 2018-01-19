@@ -1,0 +1,2 @@
+# cattoken
+special Ethereum token
